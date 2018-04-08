@@ -10,6 +10,8 @@ This page will have information about the weekly team meeting and the critical t
 * *Arpit*: exploring collision detection on the greenfoot.
 * *Anuj*: Researched on greenfoot and created a demo game to understand basic functionalities of the greenfoot.
 * *Tejas*: Read through some online material for greenfoot and developed a sample game code to get better understaning of greenfoot.
+* *Jainul*: Done research,followed tutorials available for greenfoot and developed a sample game to get hands-on experience on greenfoot.
+
 
 
 ### What is the team going to do next week?
@@ -17,6 +19,8 @@ This page will have information about the weekly team meeting and the critical t
 * *Arpit*: Designing the level of the game by creating the usecase diagram.
 * *Anuj*: Basic code implementation of game.
 * *Tejas*: Designing and basic implemention of game levels.
+* *Jainul*: Will start designing and implementing the modules for game.
+
 
 
 ### What are the current blockers/challenges the team is facing?
@@ -24,4 +28,4 @@ This page will have information about the weekly team meeting and the critical t
 * *Arpit*: No blockers/challenges this week.
 * *Anuj*: No blockers/challenges this week.
 * *Tejas*: No blockers/challenges this week.
-
+* *Jainul*: No blockers/challenges this week.
