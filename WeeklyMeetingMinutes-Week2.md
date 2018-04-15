@@ -8,14 +8,18 @@ This page will have information about the weekly team meeting and the critical t
 
 * *Kirati*: Reserched on design patterns scenarios with respect to game and continued implementation of game in greenfoot.
 * *Arpit*: Started on the second level.
+* *Anuj*: Researched on greenfoot and created a demo game to understand basic functionalities of the greenfoot.
+
 
 
 ### What is the team going to do next week?
 * *Kirati*: Continue implementation of game designing module.
 * *Arpit*: Create level 2 of the game.
+* *Anuj*: Basic code implementation of game.
 
 
 ### What are the current blockers/challenges the team is facing?
 * *Kirati*: No blockers/challenges this week.
 * *Arpit*: No blockers/challenges this week.
+* *Anuj*: No blockers/challenges this week.
 
