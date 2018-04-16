@@ -7,3 +7,8 @@ It is a core principle of LEAN which provides guidelines to remove waste during 
 * As this was the first week of the project, we did not have any code or feature related issues where we can apply this principle.
 * While discussing the overall project architecture and technologies, we tried to eliminate the waste which is created by re-learning. Meaning, not using the knowledge that is available within team members.
 * Based on the experience and knowledge, each team member shred information about the greenfoot samples which can be used to develop the game so that a team member doesn't waste time which information is already been known by other teammate.
+
+## Week-2
+* This week we have tried to eliminate the waste which is generally created by the extra features. This type of waste is created by providing more than what is needed or asked for.
+* As we were discussing the functionalities of the FastFood game, each team member came up with the different features to be added to the game. Some of those features were not needed to get the game work. Those were the extra features.
+* Mutually, we agreed upon such features and decided to prepare the list of only basic and necessary features for individual's domain so that we don't complicate the development and prioritize tasks.

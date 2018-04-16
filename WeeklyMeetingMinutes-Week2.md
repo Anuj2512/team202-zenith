@@ -10,6 +10,7 @@ This page will have information about the weekly team meeting and the critical t
 * *Arpit*: Started on the second level.
 * *Anuj*: Researched on greenfoot and created a demo game to understand basic functionalities of the greenfoot.
 * *Tejas*: Started working on game level 1.
+* *Jainul*: Started implementing design patterns in continuation with game scenario development.
 
 
 
@@ -18,6 +19,8 @@ This page will have information about the weekly team meeting and the critical t
 * *Arpit*: Create level 2 of the game.
 * *Anuj*: Basic code implementation of game.
 * *Tejas*: Implementation of game level 2.
+* *Jainul*: Designing and implementing the modules for game.
+
 
 
 ### What are the current blockers/challenges the team is facing?
@@ -25,4 +28,4 @@ This page will have information about the weekly team meeting and the critical t
 * *Arpit*: No blockers/challenges this week.
 * *Anuj*: No blockers/challenges this week.
 * *Tejas*: No blockers/challenges this week.
-
+* *Jainul*: No blockers/challenges this week.
