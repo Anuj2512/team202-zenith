@@ -19,3 +19,11 @@ Respect in Extreme Programming (XP) refers to a system where everyone gives and 
 
 * Team unanimously agreed to take in the ideas that best suited fot the game. Sense of respect to other individuals and their ideas was maintained by all team members.
 
+#### Week 3:
+* This week team worked towards finishing the game development. Elaborate discussion was done on blockers and challenges of game. All the team members took part in discussion and all the views and ideas were respected.
+
+* This week team has set target to finish most of the game development. All the queries related to this were clarified within team.
+
+* Team respected other individuals and their ideas. All the team members were given fair time to explain their ideas and views about the next steps in project.
+
+
