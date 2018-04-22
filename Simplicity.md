@@ -14,3 +14,7 @@ In the first week of our project, we need to finalize the game topic, and decide
 
 ## Week-2
 This week, we have started building the base for level 1 of the game. We first need to build the level background and decide how individual objects would work together. And I suggested that we should focus on the basic features for now and try to keep it as simple as possible for level 1 and later on if required we can add on more features to further levels. I have also given small session on how to approach the proposed design of the level. We completed the first level in this week with difficulty level being minimum.
+
+## Week-3
+This week, we have targeted to complete remaining 3 levels of the game while keeping the project simple and modular so that work can be divided among members. We started to approach the remaining levels depending on the increased difficulty for each level.
+Currently I am working on level-2 and have increased difficulty level by increasing items to be matched in the plate. One of my teammate wanted to implement moving plate feature in the application but as it will complicate the things more, we have decided to keep this feature for later, if time permits.
