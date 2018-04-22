@@ -12,3 +12,8 @@ It is a core principle of LEAN which provides guidelines to remove waste during 
 * This week we have tried to eliminate the waste which is generally created by the extra features. This type of waste is created by providing more than what is needed or asked for.
 * As we were discussing the functionalities of the FastFood game, each team member came up with the different features to be added to the game. Some of those features were not needed to get the game work. Those were the extra features.
 * Mutually, we agreed upon such features and decided to prepare the list of only basic and necessary features for individual's domain so that we don't complicate the development and prioritize tasks.
+
+## Week-3
+* This week we tried to eliminate the waste which is generally created by partially done work. One of the possible reasons of this type of waste is improper dependencies.
+* As we have started development of the game from this week for all the levels, there are objects for which are dependent on the other objects.
+* During this meeting, we identified several possible dependencies for some features. We decided to develop game in such a way that it doesn't create wait time for the dependent object. We will try to do tasks in parallel as much as possible.
