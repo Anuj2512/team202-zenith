@@ -17,5 +17,65 @@ public class MyWorld extends World
     {    
         // Create a new world with 600x400 cells with a cell size of 1x1 pixels.
         super(600, 400, 1); 
+        
+        // add new ant
+        addObject(new ant(),Greenfoot.getRandomNumber(600) , Greenfoot.getRandomNumber(400));
+        
+        // add new ant
+        addObject(new ant(),Greenfoot.getRandomNumber(600) , Greenfoot.getRandomNumber(400));
+        
+        // add new ant
+        addObject(new ant(),Greenfoot.getRandomNumber(600) , Greenfoot.getRandomNumber(400));
+        
+        // add new ant
+        addObject(new ant(),Greenfoot.getRandomNumber(600) , Greenfoot.getRandomNumber(400));
+        
+        // add new ant
+        addObject(new ant(),Greenfoot.getRandomNumber(600) , Greenfoot.getRandomNumber(400));
+        
+        // add new ant
+        addObject(new ant(),Greenfoot.getRandomNumber(600) , Greenfoot.getRandomNumber(400));
+        
+        // add new ant
+        addObject(new ant(),Greenfoot.getRandomNumber(600) , Greenfoot.getRandomNumber(400));
+        
+        // add new ant
+        addObject(new ant(),Greenfoot.getRandomNumber(600) , Greenfoot.getRandomNumber(400));
+        
+        // add new ant
+        addObject(new ant(),Greenfoot.getRandomNumber(600) , Greenfoot.getRandomNumber(400));
+        
+        // add new ant
+        addObject(new ant(),Greenfoot.getRandomNumber(600) , Greenfoot.getRandomNumber(400));
+        
+        // add new ant
+        addObject(new ant(),Greenfoot.getRandomNumber(600) , Greenfoot.getRandomNumber(400));
+        
+        // add new ant
+        addObject(new ant(),Greenfoot.getRandomNumber(600) , Greenfoot.getRandomNumber(400));
+        
+        // add new ant
+        addObject(new ant(),Greenfoot.getRandomNumber(600) , Greenfoot.getRandomNumber(400));
+        
+        // add new ant
+        addObject(new ant(),Greenfoot.getRandomNumber(600) , Greenfoot.getRandomNumber(400));
+        
+        // add new ant
+        addObject(new ant(),Greenfoot.getRandomNumber(600) , Greenfoot.getRandomNumber(400));
+        
+        // add new ant
+        addObject(new ant(),Greenfoot.getRandomNumber(600) , Greenfoot.getRandomNumber(400));
+        
+        // add new ant
+        addObject(new ant(),Greenfoot.getRandomNumber(600) , Greenfoot.getRandomNumber(400));
+        
+        // add new ant
+        addObject(new ant(),Greenfoot.getRandomNumber(600) , Greenfoot.getRandomNumber(400));
+        
+        // add new ant
+        addObject(new ant(),Greenfoot.getRandomNumber(600) , Greenfoot.getRandomNumber(400));
+        
+        // add new ant
+        addObject(new ant(),Greenfoot.getRandomNumber(600) , Greenfoot.getRandomNumber(400)); 
     }
 }
