@@ -18,3 +18,6 @@ This week, we have started building the base for level 1 of the game. We first n
 ## Week-3
 This week, we have targeted to complete remaining 3 levels of the game while keeping the project simple and modular so that work can be divided among members. We started to approach the remaining levels depending on the increased difficulty for each level.
 Currently I am working on level-2 and have increased difficulty level by increasing items to be matched in the plate. One of my teammate wanted to implement moving plate feature in the application but as it will complicate the things more, we have decided to keep this feature for later, if time permits.
+
+## Week-4
+This is the last week of our project as we were about to complete our game by following all the agile principles, so we still maintained the same for this week too. This week we completed implementation of level 4 and created required UML diagrams.We sat together and integrated everything so that there won't be any miscommunication. We comlpeted our project by following the simplicity core value while maintaining the quality of our work.
