@@ -24,3 +24,8 @@ In Extreme Programming, feedback can be of various forms: system and team. None 
 
 * Positive feedback was delivered and accepted when it came to resolving the above mentioned. Moreover, changes were adopted according to the views of the others as well after the consensus of the entire team. This brought about a positive impact in aggregating the entire project.
 
+**Week 4**
+
+* In this week's meeting, the team was set upon the agenda of creating UML Diagrams.
+
+* A decorum of positive feedback mechanism was maintained. Through this system of listening, speaking and concluding all the valid points brought to the table, general consensus was met in creating all the diagrams.
