@@ -24,3 +24,7 @@ This Wiki page contains information about how team implemented Extreme Programmi
 
 * From this week new phase of design patterns is starting in the project. This will also mean more ingeration tasks will come up. I forcast that the task of maintaining good communicaiton lines will increase and I will have to work harder to keep track that the team members are effectively speaking to each other.
 * The team's communication was robust as the changes in the design pattern arrived. We decided how we will create ui for the product. Adopting the new pattern was not easy as most of the teammates were new to the design pattern. But after a meeting and discussion everyone knew how they will proceed to this methodology and everyone got enough knowledge to adapt new method.
+
+## Week 4
+
+* As this was the last week of the project and we need to do integratation for which communication is important. This was a really good excercise for enhancing communication in the team. Having to have to do a tremendious amount of work in such a short period of time forced the team members to communicate and collaborate. It was good practice for improving our technical skills as well.

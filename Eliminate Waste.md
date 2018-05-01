@@ -17,3 +17,8 @@ It is a core principle of LEAN which provides guidelines to remove waste during 
 * This week we tried to eliminate the waste which is generally created by partially done work. One of the possible reasons of this type of waste is improper dependencies.
 * As we have started development of the game from this week for all the levels, there are objects for which are dependent on the other objects.
 * During this meeting, we identified several possible dependencies for some features. We decided to develop game in such a way that it doesn't create wait time for the dependent object. We will try to do tasks in parallel as much as possible.
+
+## Week-4
+* This week we tried to eliminate the waste which is generally created by the Hand-offs. Meaning passing the work from one person to other person after completing first person's work.
+* During last week, we identified some methods which are possible dependencies. In this week, we implemented and documented these methods so that other team members who are waiting for it can use these methods for their development.
+* Since, different methods have to be developed by the respective member avoiding hand-offs was impossible. We tried to maintain the Scrum board appropriately so that it helped to reduce the hand-off time.
